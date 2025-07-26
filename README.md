@@ -27,5 +27,5 @@ A personal developer portfolio website with a Dark Academia aesthetic. Built usi
 ## 🔗 Live Preview
 
 View the portfolio live here:  
-**[[https://s1nhapriyanshu.github.io/portfolio-page/](https://s1nhapriyanshu.github.io/Codsoft-task1/)]**
+**[https://s1nhapriyanshu.github.io/portfolio-page/](https://s1nhapriyanshu.github.io/Codsoft-task1/)**
 
